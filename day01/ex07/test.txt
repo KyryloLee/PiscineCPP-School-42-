@@ -1,0 +1,1 @@
+if you find word "start" its  gona be replaced; or another word like a "star" untouched
