@@ -74,7 +74,7 @@ int		main(void){
 				;
 			else wrong_index();
 		}
-		if (str == "EXIT")
+		if (str == "EXIT" || str.length() == 0)
 			return 0;
 		std::cout << std::endl;
 	}
